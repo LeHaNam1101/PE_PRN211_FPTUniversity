@@ -1,0 +1,4 @@
+LHNAM,Nam2,True,1/11/2001
+NAM,Nam4,True,1/11/2001
+NAMTEST,Nam6,False,1/11/2001
+LeHaNam,Nam2,False,1/11/2001

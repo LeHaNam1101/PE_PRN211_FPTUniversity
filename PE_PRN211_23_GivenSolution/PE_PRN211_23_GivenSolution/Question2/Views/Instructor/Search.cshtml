@@ -1,0 +1,43 @@
+﻿@using Question2.Controllers;
+@using Question2.Models
+
+<html>
+<head>
+</head>
+<body>
+    <form method="post" action="/Instructor/Search">
+        Department:
+        <select name="department">
+            @foreach (Department item in ViewBag.listD)
+            {
+                <option value="@item.DepartmentId">@item.DepartmentName</option>
+            }
+        </select>
+        <br / />
+        Contract Type :
+        <select name="contract">
+            <option value="True">Fulltime</option>
+            <option value="False">Parttime</option>
+        </select>
+
+        <br />
+        Sort by:
+        <input type="radio" name="sort" value="1" /> IntructorName
+        <input type="radio" name="sort" value="2" /> IntructorId
+        <input type="radio" name="sort" value="3" /> ContractDate
+        <br />
+        <button type="submit"> Filter</button>
+    </form>
+    <h2> List instructor</h2>
+    <table>
+        @foreach (Instructor2 item in ViewBag.listI)
+        {
+            <tr>
+                <td>@item.InstructorId - @item.Fullname - @item.DepartmentName - @item.ContractDate.Value.ToString("dd/MM/yyyy") </td>
+
+            </tr>
+        }
+
+    </table>
+</body>
+</html>

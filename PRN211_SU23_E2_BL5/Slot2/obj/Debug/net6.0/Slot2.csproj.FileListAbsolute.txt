@@ -1,0 +1,15 @@
+D:\HOCTAPFPT\Ki8SEFPT\PRN211_Block52023\PRN211_SU23_E2_BL5\Slot2\bin\Debug\net6.0\Slot2.exe
+D:\HOCTAPFPT\Ki8SEFPT\PRN211_Block52023\PRN211_SU23_E2_BL5\Slot2\bin\Debug\net6.0\Slot2.deps.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211_Block52023\PRN211_SU23_E2_BL5\Slot2\bin\Debug\net6.0\Slot2.runtimeconfig.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211_Block52023\PRN211_SU23_E2_BL5\Slot2\bin\Debug\net6.0\Slot2.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211_Block52023\PRN211_SU23_E2_BL5\Slot2\bin\Debug\net6.0\Slot2.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211_Block52023\PRN211_SU23_E2_BL5\Slot2\obj\Debug\net6.0\Slot2.csproj.AssemblyReference.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211_Block52023\PRN211_SU23_E2_BL5\Slot2\obj\Debug\net6.0\Slot2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAPFPT\Ki8SEFPT\PRN211_Block52023\PRN211_SU23_E2_BL5\Slot2\obj\Debug\net6.0\Slot2.AssemblyInfoInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211_Block52023\PRN211_SU23_E2_BL5\Slot2\obj\Debug\net6.0\Slot2.AssemblyInfo.cs
+D:\HOCTAPFPT\Ki8SEFPT\PRN211_Block52023\PRN211_SU23_E2_BL5\Slot2\obj\Debug\net6.0\Slot2.csproj.CoreCompileInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211_Block52023\PRN211_SU23_E2_BL5\Slot2\obj\Debug\net6.0\Slot2.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211_Block52023\PRN211_SU23_E2_BL5\Slot2\obj\Debug\net6.0\refint\Slot2.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211_Block52023\PRN211_SU23_E2_BL5\Slot2\obj\Debug\net6.0\Slot2.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211_Block52023\PRN211_SU23_E2_BL5\Slot2\obj\Debug\net6.0\Slot2.genruntimeconfig.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211_Block52023\PRN211_SU23_E2_BL5\Slot2\obj\Debug\net6.0\ref\Slot2.dll

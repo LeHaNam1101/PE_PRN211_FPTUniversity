@@ -1,0 +1,17 @@
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\bin\Debug\net6.0-windows\Question1.exe
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\bin\Debug\net6.0-windows\Question1.deps.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\bin\Debug\net6.0-windows\Question1.runtimeconfig.json
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\bin\Debug\net6.0-windows\Question1.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\bin\Debug\net6.0-windows\Question1.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\obj\Debug\net6.0-windows\Question1.csproj.AssemblyReference.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\obj\Debug\net6.0-windows\Question1.Form1.resources
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\obj\Debug\net6.0-windows\Question1.csproj.GenerateResource.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\obj\Debug\net6.0-windows\Question1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\obj\Debug\net6.0-windows\Question1.AssemblyInfoInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\obj\Debug\net6.0-windows\Question1.AssemblyInfo.cs
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\obj\Debug\net6.0-windows\Question1.csproj.CoreCompileInputs.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\obj\Debug\net6.0-windows\Question1.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\obj\Debug\net6.0-windows\refint\Question1.dll
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\obj\Debug\net6.0-windows\Question1.pdb
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\obj\Debug\net6.0-windows\Question1.genruntimeconfig.cache
+D:\HOCTAPFPT\Ki8SEFPT\PRN211\Test_PE\PE_PRN211_23_GivenSolution\PE_PRN211_23_GivenSolution\Question1\obj\Debug\net6.0-windows\ref\Question1.dll
